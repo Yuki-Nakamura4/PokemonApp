@@ -1,0 +1,14 @@
+nav {
+    background-color: rgb(235, 112, 98);
+    color: white;
+    height: 65px;
+    font-weight: 600;
+    font-size: 25px;
+    text-align: center;
+    display: flex;
+    /* HTMLブロックを横並びにする */
+    justify-content: center;
+    /* flexとセットで使用。横軸の真ん中にコンテンツを寄せる  */
+    align-items: center;
+    /*　クロス軸(縦軸)の真ん中にアイテムの位置を揃える */
+}
